@@ -21,15 +21,10 @@ display(df)
 
 ```
 
-|    |         A |        B |         C |        D |
-|---:|----------:|---------:|----------:|---------:|
-|  0 | 0.469294  | 0.191427 | 0.585911  | 0.200162 |
-|  1 | 0.74057   | 0.96346  | 0.59603   | 0.675298 |
-|  2 | 0.742893  | 0.495007 | 0.0825576 | 0.236011 |
-|  3 | 0.0569408 | 0.608854 | 0.945528  | 0.370119 |
-|  4 | 0.947972  | 0.19386  | 0.0729927 | 0.212709 |
-|  5 | 0.615882  | 0.374566 | 0.399265  | 0.188595 |
-|  6 | 0.310301  | 0.866071 | 0.202605  | 0.295075 |
-|  7 | 0.380198  | 0.748381 | 0.148389  | 0.23381  |
-|  8 | 0.975261  | 0.935911 | 0.417544  | 0.711685 |
-|  9 | 0.758021  | 0.550602 | 0.066535  | 0.858383 |
+|    |   Year | Datetime            | Stage   | Stadium        | City       | Home Team Name   |   Home Team Goals |   Away Team Goals | Away Team Name   | Win conditions   |   Attendance |   Half-time Home Goals |   Half-time Away Goals | Referee                | Assistant 1              | Assistant 2                |   RoundID |   MatchID | Home Team Initials   | Away Team Initials   |
+|---:|-------:|:--------------------|:--------|:---------------|:-----------|:-----------------|------------------:|------------------:|:-----------------|:-----------------|-------------:|-----------------------:|-----------------------:|:-----------------------|:-------------------------|:---------------------------|----------:|----------:|:---------------------|:---------------------|
+|  0 |   1930 | 13 Jul 1930 - 15:00 | Group 1 | Pocitos        | Montevideo | France           |                 4 |                 1 | Mexico           |                  |         4444 |                      3 |                      0 | LOMBARDI Domingo (URU) | CRISTOPHE Henry (BEL)    | REGO Gilberto (BRA)        |       201 |      1096 | FRA                  | MEX                  |
+|  1 |   1930 | 13 Jul 1930 - 15:00 | Group 4 | Parque Central | Montevideo | USA              |                 3 |                 0 | Belgium          |                  |        18346 |                      2 |                      0 | MACIAS Jose (ARG)      | MATEUCCI Francisco (URU) | WARNKEN Alberto (CHI)      |       201 |      1090 | USA                  | BEL                  |
+|  2 |   1930 | 14 Jul 1930 - 12:45 | Group 2 | Parque Central | Montevideo | Yugoslavia       |                 2 |                 1 | Brazil           |                  |        24059 |                      2 |                      0 | TEJADA Anibal (URU)    | VALLARINO Ricardo (URU)  | BALWAY Thomas (FRA)        |       201 |      1093 | YUG                  | BRA                  |
+|  3 |   1930 | 14 Jul 1930 - 14:50 | Group 3 | Pocitos        | Montevideo | Romania          |                 3 |                 1 | Peru             |                  |         2549 |                      1 |                      0 | WARNKEN Alberto (CHI)  | LANGENUS Jean (BEL)      | MATEUCCI Francisco (URU)   |       201 |      1098 | ROU                  | PER                  |
+|  4 |   1930 | 15 Jul 1930 - 16:00 | Group 1 | Parque Central | Montevideo | Argentina        |                 1 |                 0 | France           |                  |        23409 |                      0 |                      0 | REGO Gilberto (BRA)    | SAUCEDO Ulises (BOL)     | RADULESCU Constantin (ROU) |       201 |      1085 | ARG                  | FRA                  |
