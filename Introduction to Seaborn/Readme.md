@@ -119,5 +119,7 @@ ax.set_title("Meaningful Title")
 plt.show()
 ```
 
-For more information on plotting with Seaborn, see the seaborn documentation, 
-the seaborn gallery, and the official seaborn tutorial.
+For more information on plotting with Seaborn, see the
+ [seaborn documentation](http://stanford.edu/~mwaskom/software/seaborn), 
+ the [seaborn gallery](http://stanford.edu/~mwaskom/software/seaborn/examples/index.html), 
+ and the official [seaborn tutorial](http://stanford.edu/~mwaskom/software/seaborn/tutorial.html).
