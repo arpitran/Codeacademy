@@ -1,16 +1,5 @@
 ## Visualizing World Cup Data With Seaborn
 
-Matplotlib is a useful tool, but it leaves much to be desired. There are several valid complaints about matplotlib that often come up:
-
-- Matplotlib's defaults are not exactly the best choices. It was based off of MatLab circa 1999, and this shows.
-- Matplotlib is relatively low-level. Doing sophisticated statistical visualization is possible, but often requires a *lot* of boilerplate code.
-- Matplotlib is not designed for use with Pandas dataframes. In order to visualize data from a Pandas dataframe, you must extract each series and often concatenate these series' together into the right format.
-
-The answer to these problems is [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/). Seaborn provides an API on top of matplotlib which uses sane plot & color defaults, uses simple functions for common statistical plot types, and which integrates with the functionality provided by Pandas dataframes.
-
-Let's take a look at Seaborn in action. We'll start by importing the key libraries we'll need.
-
-
 A little primer on the Fifa World Cup: The FIFA World Cup, or simply the World Cup, is an international fútbol competition where 32 countries qualify to send teams made up of the best players from that nation to compete against each other for the World Cup championship.
 
 The World Cup championship has been awarded every four years since the inaugural tournament in 1930, except in 1942 and 1946 when it was not held because of the Second World War.
