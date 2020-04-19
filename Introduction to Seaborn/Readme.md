@@ -6,3 +6,11 @@ The World Cup championship has been awarded every four years since the inaugural
 
 The current format of the tournament involves 32 teams competing for the title at venues within the host nation over a period of one month.
 
+
+```python
+#load the packages
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+```
