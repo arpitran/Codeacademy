@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0e29f6c-1107-4527-bc79-a8de7e4d280b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Visualizing WorldCup Data with Seaborn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Visualizing WorldCup Data with Seaborn.ipynb" afterDir="false" />
     </list>
