@@ -27,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Twitch Part 1 Analyze data with SQL" />
   </component>
   <component name="RunManager" selected="Python.plot_bars">
     <configuration name="intro_to_seaborn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -93,6 +93,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1587307030618">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587307030618" />
     <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1587260606550">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
